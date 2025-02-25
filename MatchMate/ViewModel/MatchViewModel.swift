@@ -87,6 +87,7 @@ class MatchViewModel: ObservableObject {
   
   func syncOfflineData() {
 //  Need API to sync the data ince network is back
+    
 //    let unsyncedProfiles = persistenceController.fetchUnsyncedProfiles()
 //    for profile in unsyncedProfiles {
 //      let parameters: [String: Any] = [
